@@ -1,8 +1,7 @@
 - 👋 Hello, I’m @wesville
 ** Backend developer | security tester and monitoring ** Based in PortHarcout ** Core interest in building solution driven innovations **
 ** I am a software developer focused on Backend and application security technologies.
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... Keniconn@gmail.com
+- 💞️ 📫 How to reach me ... Keniconn@gmail.com
 
 <!---
 wesville/wesville is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
